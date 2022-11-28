@@ -1,0 +1,88 @@
+#heading h2{
+	font-size: 22px;
+}
+
+#input-form {
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+#head-right{
+	float: right;
+	margin-right: 10px;
+	display: inline;
+	margin-top: -40px;
+}
+
+#head-right form, #head-right input{
+	display: inline;
+}
+
+#input-form span{
+	display: block;
+	margin-left: 20px;
+}
+
+#addData{
+	display: block;
+	margin-left: 120px;
+	margin-top: 10px;
+}
+
+#information-table table{
+	width: 100%;
+	text-align: center;
+}
+
+table img{
+	width:140px;
+}
+
+table a img{
+	width: 30px;
+}
+
+#information-table table {
+	border-collapse: collapse;
+	margin-top: 30px;
+}
+
+#information-table td {
+	border: 1px solid black;
+}
+
+.errorMessage{
+    color:red;
+    font-size: 0.8rem;
+    position: absolute;
+   	margin-top: -5px;
+   	margin-left: -80px;
+}
+
+#tsno{
+	min-width: 40px;
+}
+
+#ttitle{
+	min-width: 120px;
+}
+
+#tquantity{
+	min-width: 70px;
+}
+
+#tsize{
+	min-width: 65px;
+}
+
+#timage{
+	min-width: 170px;
+}
+
+#rimage{
+	min-height: 180px;
+}
+
+#tactions{
+	min-width: 80px;
+}

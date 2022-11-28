@@ -1,0 +1,65 @@
+#outer-div{
+	width: 80%;
+	height:250px;
+	position:absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:auto;
+}
+
+#login{
+	margin-left:0;
+	padding:0;
+	color: rgb(5,69,144);
+	background-color: rgb(235,241,247);
+	border: 1px solid rgb(205,220,235);
+}
+
+h2{
+	margin-left: 10px;
+}
+
+.star{
+	margin-left:100px;
+	color: red;
+}
+
+#main-content{
+	margin:0;
+	padding:0;
+	background-color:rgb(245,248,251);
+	height: 130px;
+	border-left: 1px solid rgb(205,220,235);
+	border-right: 1px solid rgb(205,220,235);
+}
+table{	
+	margin-left: 20px;
+}
+
+.errorMessage{
+	color: red;
+	margin-left: 10px;
+}
+
+#main-content input{
+	margin-left:10px;
+	width:200px;
+}
+
+#fpassSpan{
+	margin-left:220px;
+	font-size: 15px;
+}
+
+#button-area{
+	background-color: rgb(235,241,247);
+	border: 1px solid rgb(205,220,235);
+	height: 50px;
+}
+
+#button-area input{
+	margin-left: 400px;
+	margin-top: 15px;
+}
